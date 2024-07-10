@@ -1,5 +1,5 @@
-The work here shows two projects titled as Next Word Prediction. Both the projects have been made using different tools in order to show variations. 
-These projects clearly highlight the power of machine learning moels.
+Have been working on these projects from past one week. Both the projects have been made using different tools in order to show variations. 
+These projects clearly highlight the power of machine learning models.
 
 The first project is made using NLTK which stands for Natural Language ToolKit. NLTK is one of the largest Python libraries for performing various Natural Language Processing tasks. 
 
@@ -10,6 +10,6 @@ The second project is made using transformers from Hugging face. Hugging Face Tr
 You can refer to this link for further info.- https://huggingface.co/docs/transformers/index
 
 In addition to that i have also build my own model from stratch by installing transformers as !pip install transformers torch.
-I have also made use of "gpt2" model and GPT2Tokenizer. 
+I have also made use of "gpt2" model and "GPT2Tokenizer". 
 
 You can refer to the project for detailed info.
